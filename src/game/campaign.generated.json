@@ -1,0 +1,5452 @@
+[
+  {
+    "id": 1,
+    "seed": "campaign-001",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      2,
+      4,
+      9,
+      8,
+      8,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "seed": "campaign-002",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      7,
+      11,
+      2,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 3,
+    "seed": "campaign-003",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      11,
+      11,
+      6,
+      2,
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "seed": "campaign-004",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      3,
+      6,
+      6,
+      11,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "seed": "campaign-005",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      4,
+      2,
+      10,
+      12,
+      5,
+      3
+    ]
+  },
+  {
+    "id": 6,
+    "seed": "campaign-006",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      7,
+      9,
+      7,
+      4,
+      6,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "seed": "campaign-007",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      6,
+      5,
+      5,
+      6,
+      9
+    ]
+  },
+  {
+    "id": 8,
+    "seed": "campaign-008",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      7,
+      6,
+      6,
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "seed": "campaign-009",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      6,
+      6,
+      5,
+      9,
+      3,
+      7
+    ]
+  },
+  {
+    "id": 10,
+    "seed": "campaign-010",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      7,
+      6,
+      6,
+      6,
+      6
+    ]
+  },
+  {
+    "id": 11,
+    "seed": "campaign-023",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      10,
+      2,
+      6,
+      2,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 12,
+    "seed": "campaign-210",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      13,
+      10,
+      15,
+      13,
+      6,
+      9,
+      10,
+      9,
+      13,
+      12
+    ]
+  },
+  {
+    "id": 13,
+    "seed": "campaign-071",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      12,
+      6,
+      7,
+      1,
+      7,
+      11,
+      9,
+      11
+    ]
+  },
+  {
+    "id": 14,
+    "seed": "campaign-125",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      8,
+      9,
+      8,
+      12,
+      13,
+      7,
+      6,
+      10,
+      16,
+      11
+    ]
+  },
+  {
+    "id": 15,
+    "seed": "campaign-132",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      8,
+      16,
+      14,
+      11,
+      17,
+      11,
+      9,
+      11,
+      15,
+      12,
+      6,
+      14
+    ]
+  },
+  {
+    "id": 16,
+    "seed": "campaign-243",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      8,
+      8,
+      11,
+      7,
+      11,
+      5,
+      18,
+      12,
+      11
+    ]
+  },
+  {
+    "id": 17,
+    "seed": "campaign-261",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      14,
+      7,
+      15,
+      9,
+      15,
+      11,
+      6,
+      7,
+      8,
+      8
+    ]
+  },
+  {
+    "id": 18,
+    "seed": "campaign-169",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      10,
+      9,
+      9,
+      10,
+      8,
+      13,
+      7,
+      14,
+      13,
+      15
+    ]
+  },
+  {
+    "id": 19,
+    "seed": "campaign-297",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      13,
+      14,
+      13,
+      13,
+      13,
+      12,
+      10,
+      10,
+      18,
+      9,
+      20,
+      10
+    ]
+  },
+  {
+    "id": 20,
+    "seed": "campaign-034",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      8,
+      2,
+      8,
+      6,
+      9,
+      9,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "seed": "campaign-247",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      15,
+      6,
+      15,
+      5,
+      14,
+      12,
+      9,
+      6,
+      13,
+      13
+    ]
+  },
+  {
+    "id": 22,
+    "seed": "campaign-199",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      16,
+      19,
+      13,
+      12,
+      7,
+      9,
+      13,
+      11,
+      12,
+      13,
+      17,
+      14
+    ]
+  },
+  {
+    "id": 23,
+    "seed": "campaign-110",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      17,
+      8,
+      12,
+      9,
+      10,
+      15,
+      14,
+      7,
+      6,
+      8,
+      15
+    ]
+  },
+  {
+    "id": 24,
+    "seed": "campaign-029",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      11,
+      11,
+      9,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "seed": "campaign-027",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      5,
+      9,
+      9,
+      7,
+      9,
+      4
+    ]
+  },
+  {
+    "id": 26,
+    "seed": "campaign-204",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      13,
+      5,
+      6,
+      6,
+      12,
+      13,
+      10,
+      14,
+      10
+    ]
+  },
+  {
+    "id": 27,
+    "seed": "campaign-067",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      8,
+      9,
+      5,
+      8,
+      10,
+      10,
+      9,
+      5
+    ]
+  },
+  {
+    "id": 28,
+    "seed": "campaign-196",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      10,
+      18,
+      20,
+      12,
+      14,
+      14,
+      9,
+      13,
+      12,
+      13,
+      10,
+      14,
+      10
+    ]
+  },
+  {
+    "id": 29,
+    "seed": "campaign-126",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      10,
+      14,
+      12,
+      11,
+      9,
+      12,
+      9,
+      11,
+      13,
+      8,
+      12
+    ]
+  },
+  {
+    "id": 30,
+    "seed": "campaign-116",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      11,
+      13,
+      18,
+      17,
+      8,
+      13,
+      13,
+      7,
+      12,
+      19,
+      11,
+      15
+    ]
+  },
+  {
+    "id": 31,
+    "seed": "campaign-259",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      9,
+      19,
+      11,
+      11,
+      14,
+      16,
+      8,
+      16,
+      13,
+      16,
+      14,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 32,
+    "seed": "campaign-228",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      5,
+      15,
+      10,
+      12,
+      11,
+      12,
+      10,
+      15,
+      10,
+      8,
+      13
+    ]
+  },
+  {
+    "id": 33,
+    "seed": "campaign-218",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      12,
+      14,
+      10,
+      8,
+      12,
+      12,
+      11,
+      16,
+      11,
+      16,
+      20,
+      13
+    ]
+  },
+  {
+    "id": 34,
+    "seed": "campaign-269",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      12,
+      14,
+      8,
+      11,
+      9,
+      7,
+      13,
+      16,
+      9,
+      10
+    ]
+  },
+  {
+    "id": 35,
+    "seed": "campaign-062",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      7,
+      11,
+      3,
+      9,
+      7,
+      14,
+      7
+    ]
+  },
+  {
+    "id": 36,
+    "seed": "campaign-181",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      13,
+      13,
+      11,
+      5,
+      10,
+      12,
+      11,
+      4,
+      12
+    ]
+  },
+  {
+    "id": 37,
+    "seed": "campaign-141",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      7,
+      15,
+      9,
+      13,
+      9,
+      10,
+      7,
+      9,
+      11
+    ]
+  },
+  {
+    "id": 38,
+    "seed": "campaign-227",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      10,
+      8,
+      8,
+      13,
+      13,
+      10,
+      9,
+      8,
+      12,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 39,
+    "seed": "campaign-286",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      10,
+      10,
+      10,
+      12,
+      11,
+      9,
+      10,
+      10,
+      10,
+      18
+    ]
+  },
+  {
+    "id": 40,
+    "seed": "campaign-090",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      4,
+      11,
+      9,
+      8,
+      10,
+      4,
+      18,
+      9,
+      8
+    ]
+  },
+  {
+    "id": 41,
+    "seed": "campaign-239",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      16,
+      14,
+      10,
+      10,
+      10,
+      12,
+      17,
+      10,
+      9,
+      14,
+      17,
+      12,
+      18
+    ]
+  },
+  {
+    "id": 42,
+    "seed": "campaign-104",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      16,
+      11,
+      8,
+      15,
+      7,
+      4,
+      6,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 43,
+    "seed": "campaign-183",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      9,
+      9,
+      8,
+      10,
+      10,
+      5,
+      14,
+      15,
+      9
+    ]
+  },
+  {
+    "id": 44,
+    "seed": "campaign-138",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      14,
+      11,
+      12,
+      10,
+      12,
+      13,
+      16,
+      15,
+      12,
+      13,
+      17,
+      12
+    ]
+  },
+  {
+    "id": 45,
+    "seed": "campaign-248",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      8,
+      13,
+      6,
+      11,
+      8,
+      14,
+      10,
+      15,
+      11,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 46,
+    "seed": "campaign-176",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      14,
+      16,
+      12,
+      16,
+      9,
+      12,
+      14,
+      11,
+      22,
+      10,
+      12,
+      8
+    ]
+  },
+  {
+    "id": 47,
+    "seed": "campaign-046",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      5,
+      12,
+      11,
+      5,
+      5,
+      6,
+      5
+    ]
+  },
+  {
+    "id": 48,
+    "seed": "campaign-280",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      8,
+      15,
+      8,
+      16,
+      19,
+      11,
+      17,
+      13,
+      9,
+      11,
+      14,
+      19,
+      9
+    ]
+  },
+  {
+    "id": 49,
+    "seed": "campaign-073",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      7,
+      7,
+      9,
+      6,
+      12,
+      5,
+      7,
+      11
+    ]
+  },
+  {
+    "id": 50,
+    "seed": "campaign-097",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      11,
+      5,
+      4,
+      11,
+      10,
+      8,
+      9,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 51,
+    "seed": "campaign-263",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      8,
+      12,
+      10,
+      7,
+      12,
+      4,
+      14,
+      10,
+      13
+    ]
+  },
+  {
+    "id": 52,
+    "seed": "campaign-278",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      15,
+      10,
+      15,
+      9,
+      17,
+      11,
+      14,
+      13,
+      16,
+      12,
+      12,
+      11
+    ]
+  },
+  {
+    "id": 53,
+    "seed": "campaign-022",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      10,
+      6,
+      6,
+      6,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 54,
+    "seed": "campaign-180",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      9,
+      15,
+      11,
+      14,
+      11,
+      18,
+      12,
+      11,
+      14,
+      10,
+      11,
+      21
+    ]
+  },
+  {
+    "id": 55,
+    "seed": "campaign-142",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      6,
+      9,
+      12,
+      8,
+      13,
+      6,
+      9,
+      15,
+      13
+    ]
+  },
+  {
+    "id": 56,
+    "seed": "campaign-298",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      11,
+      15,
+      17,
+      9,
+      15,
+      16,
+      15,
+      9,
+      15,
+      14,
+      9,
+      10,
+      14
+    ]
+  },
+  {
+    "id": 57,
+    "seed": "campaign-038",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      4,
+      8,
+      8,
+      8,
+      11,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 58,
+    "seed": "campaign-253",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      14,
+      7,
+      11,
+      12,
+      11,
+      11,
+      13,
+      12,
+      15,
+      9,
+      16,
+      13
+    ]
+  },
+  {
+    "id": 59,
+    "seed": "campaign-092",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      3,
+      4,
+      16,
+      5,
+      9,
+      12,
+      13,
+      6,
+      13
+    ]
+  },
+  {
+    "id": 60,
+    "seed": "campaign-168",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      14,
+      10,
+      9,
+      9,
+      14,
+      18,
+      3,
+      11,
+      10,
+      8
+    ]
+  },
+  {
+    "id": 61,
+    "seed": "campaign-282",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      13,
+      10,
+      14,
+      11,
+      10,
+      9,
+      11,
+      8,
+      7,
+      7
+    ]
+  },
+  {
+    "id": 62,
+    "seed": "campaign-144",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      15,
+      15,
+      7,
+      10,
+      10,
+      11,
+      4,
+      9,
+      7,
+      12
+    ]
+  },
+  {
+    "id": 63,
+    "seed": "campaign-135",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      12,
+      11,
+      13,
+      8,
+      13,
+      11,
+      13,
+      11,
+      11,
+      10,
+      15
+    ]
+  },
+  {
+    "id": 64,
+    "seed": "campaign-186",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      9,
+      12,
+      11,
+      14,
+      9,
+      13,
+      13,
+      10,
+      7,
+      13,
+      10
+    ]
+  },
+  {
+    "id": 65,
+    "seed": "campaign-224",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      7,
+      8,
+      14,
+      11,
+      12,
+      14,
+      7,
+      12,
+      5,
+      10
+    ]
+  },
+  {
+    "id": 66,
+    "seed": "campaign-284",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      7,
+      9,
+      12,
+      14,
+      11,
+      6,
+      11,
+      11,
+      14,
+      5
+    ]
+  },
+  {
+    "id": 67,
+    "seed": "campaign-065",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      8,
+      8,
+      10,
+      14,
+      1,
+      12,
+      5
+    ]
+  },
+  {
+    "id": 68,
+    "seed": "campaign-037",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      10,
+      7,
+      9,
+      8,
+      6,
+      7,
+      2
+    ]
+  },
+  {
+    "id": 69,
+    "seed": "campaign-049",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      7,
+      11,
+      5,
+      8,
+      7,
+      3,
+      8
+    ]
+  },
+  {
+    "id": 70,
+    "seed": "campaign-080",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      6,
+      12,
+      7,
+      16,
+      9,
+      4,
+      9,
+      10,
+      8
+    ]
+  },
+  {
+    "id": 71,
+    "seed": "campaign-061",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      8,
+      12,
+      12,
+      6,
+      7,
+      3,
+      8,
+      8
+    ]
+  },
+  {
+    "id": 72,
+    "seed": "campaign-221",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      10,
+      9,
+      12,
+      5,
+      7,
+      16,
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 73,
+    "seed": "campaign-112",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      6,
+      5,
+      17,
+      13,
+      16,
+      9,
+      11,
+      15,
+      13,
+      16,
+      10,
+      13
+    ]
+  },
+  {
+    "id": 74,
+    "seed": "campaign-070",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      10,
+      3,
+      3,
+      12,
+      11,
+      7,
+      9,
+      9
+    ]
+  },
+  {
+    "id": 75,
+    "seed": "campaign-133",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      13,
+      18,
+      12,
+      14,
+      7,
+      15,
+      12,
+      12,
+      12,
+      8,
+      10
+    ]
+  },
+  {
+    "id": 76,
+    "seed": "campaign-173",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      14,
+      12,
+      14,
+      9,
+      14,
+      12,
+      9,
+      10,
+      17,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 77,
+    "seed": "campaign-045",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      2,
+      13,
+      6,
+      6,
+      3,
+      8,
+      11
+    ]
+  },
+  {
+    "id": 78,
+    "seed": "campaign-025",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      8,
+      2,
+      8,
+      5,
+      9,
+      4
+    ]
+  },
+  {
+    "id": 79,
+    "seed": "campaign-016",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      9,
+      8,
+      2,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 80,
+    "seed": "campaign-111",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      14,
+      10,
+      13,
+      11,
+      10,
+      14,
+      11,
+      17,
+      10,
+      15,
+      7,
+      12
+    ]
+  },
+  {
+    "id": 81,
+    "seed": "campaign-030",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      12,
+      11,
+      2,
+      3,
+      4,
+      13,
+      4
+    ]
+  },
+  {
+    "id": 82,
+    "seed": "campaign-113",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      12,
+      10,
+      14,
+      13,
+      10,
+      10,
+      6,
+      14,
+      8,
+      18,
+      16
+    ]
+  },
+  {
+    "id": 83,
+    "seed": "campaign-129",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      7,
+      11,
+      12,
+      12,
+      5,
+      14,
+      12,
+      9,
+      13,
+      13
+    ]
+  },
+  {
+    "id": 84,
+    "seed": "campaign-238",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      11,
+      9,
+      11,
+      15,
+      18,
+      13,
+      15,
+      15,
+      18,
+      7,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 85,
+    "seed": "campaign-229",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      16,
+      9,
+      11,
+      7,
+      8,
+      10,
+      16,
+      12,
+      10,
+      11,
+      11
+    ]
+  },
+  {
+    "id": 86,
+    "seed": "campaign-095",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      9,
+      13,
+      6,
+      11,
+      9,
+      8,
+      2,
+      13,
+      10
+    ]
+  },
+  {
+    "id": 87,
+    "seed": "campaign-281",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      13,
+      5,
+      12,
+      12,
+      6,
+      10,
+      8,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 88,
+    "seed": "campaign-020",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      7,
+      1,
+      2,
+      15,
+      1,
+      10
+    ]
+  },
+  {
+    "id": 89,
+    "seed": "campaign-200",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      8,
+      16,
+      12,
+      11,
+      18,
+      12,
+      16,
+      12,
+      16,
+      19,
+      11,
+      13,
+      5
+    ]
+  },
+  {
+    "id": 90,
+    "seed": "campaign-096",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      6,
+      1,
+      7,
+      11,
+      13,
+      12,
+      10,
+      13,
+      8
+    ]
+  },
+  {
+    "id": 91,
+    "seed": "campaign-272",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      10,
+      9,
+      7,
+      18,
+      12,
+      6,
+      6,
+      13,
+      14,
+      11,
+      20,
+      18
+    ]
+  },
+  {
+    "id": 92,
+    "seed": "campaign-265",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      7,
+      11,
+      6,
+      14,
+      11,
+      5,
+      9,
+      13,
+      13
+    ]
+  },
+  {
+    "id": 93,
+    "seed": "campaign-031",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      12,
+      9,
+      3,
+      2,
+      11,
+      6,
+      6
+    ]
+  },
+  {
+    "id": 94,
+    "seed": "campaign-078",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      14,
+      7,
+      8,
+      8,
+      5,
+      7,
+      14,
+      14,
+      4
+    ]
+  },
+  {
+    "id": 95,
+    "seed": "campaign-042",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      5,
+      3,
+      9,
+      5,
+      8,
+      12,
+      7
+    ]
+  },
+  {
+    "id": 96,
+    "seed": "campaign-194",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      14,
+      9,
+      12,
+      12,
+      16,
+      17,
+      10,
+      16,
+      8,
+      10,
+      4,
+      16
+    ]
+  },
+  {
+    "id": 97,
+    "seed": "campaign-159",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      14,
+      12,
+      20,
+      12,
+      14,
+      14,
+      17,
+      13,
+      7,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 98,
+    "seed": "campaign-059",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      6,
+      13,
+      10,
+      2,
+      7,
+      6,
+      14
+    ]
+  },
+  {
+    "id": 99,
+    "seed": "campaign-182",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      2,
+      4,
+      8,
+      14,
+      8,
+      6,
+      11,
+      13,
+      15,
+      19
+    ]
+  },
+  {
+    "id": 100,
+    "seed": "campaign-275",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      10,
+      17,
+      13,
+      9,
+      17,
+      7,
+      15,
+      11,
+      9,
+      12,
+      14,
+      10
+    ]
+  },
+  {
+    "id": 101,
+    "seed": "campaign-226",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      8,
+      15,
+      15,
+      12,
+      8,
+      19,
+      9,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 102,
+    "seed": "campaign-087",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      8,
+      11,
+      9,
+      5,
+      9,
+      10,
+      12,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 103,
+    "seed": "campaign-145",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      10,
+      4,
+      10,
+      12,
+      11,
+      14,
+      7,
+      13,
+      9
+    ]
+  },
+  {
+    "id": 104,
+    "seed": "campaign-094",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      6,
+      8,
+      9,
+      10,
+      9,
+      11,
+      16,
+      3,
+      9
+    ]
+  },
+  {
+    "id": 105,
+    "seed": "campaign-079",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      5,
+      5,
+      12,
+      10,
+      13,
+      7,
+      9,
+      7,
+      13
+    ]
+  },
+  {
+    "id": 106,
+    "seed": "campaign-288",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      17,
+      8,
+      8,
+      13,
+      12,
+      12,
+      14,
+      6,
+      12,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 107,
+    "seed": "campaign-107",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      9,
+      11,
+      14,
+      12,
+      12,
+      9,
+      8,
+      11,
+      13,
+      11
+    ]
+  },
+  {
+    "id": 108,
+    "seed": "campaign-109",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      9,
+      12,
+      14,
+      13,
+      10,
+      12,
+      12,
+      6,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 109,
+    "seed": "campaign-164",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      8,
+      11,
+      7,
+      14,
+      15,
+      7,
+      9,
+      10,
+      8,
+      11
+    ]
+  },
+  {
+    "id": 110,
+    "seed": "campaign-102",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      9,
+      10,
+      9,
+      8,
+      15,
+      8,
+      10,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 111,
+    "seed": "campaign-211",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      16,
+      13,
+      4,
+      16,
+      11,
+      17,
+      6,
+      11,
+      10,
+      8,
+      16
+    ]
+  },
+  {
+    "id": 112,
+    "seed": "campaign-283",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      11,
+      4,
+      11,
+      8,
+      6,
+      10,
+      8,
+      20,
+      11
+    ]
+  },
+  {
+    "id": 113,
+    "seed": "campaign-106",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      10,
+      14,
+      11,
+      12,
+      12,
+      7,
+      8,
+      11,
+      10,
+      14,
+      12
+    ]
+  },
+  {
+    "id": 114,
+    "seed": "campaign-019",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      7,
+      5,
+      5,
+      6,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 115,
+    "seed": "campaign-121",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      5,
+      11,
+      12,
+      9,
+      11,
+      16,
+      14,
+      8,
+      9,
+      5
+    ]
+  },
+  {
+    "id": 116,
+    "seed": "campaign-081",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      3,
+      7,
+      7,
+      8,
+      9,
+      9,
+      16,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 117,
+    "seed": "campaign-197",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      10,
+      8,
+      24,
+      12,
+      12,
+      10,
+      18,
+      9,
+      12,
+      11,
+      18,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 118,
+    "seed": "campaign-098",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      10,
+      4,
+      12,
+      2,
+      9,
+      8,
+      15,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 119,
+    "seed": "campaign-152",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      18,
+      10,
+      12,
+      13,
+      11,
+      13,
+      15,
+      11,
+      10,
+      10,
+      10
+    ]
+  },
+  {
+    "id": 120,
+    "seed": "campaign-171",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      12,
+      11,
+      8,
+      17,
+      11,
+      14,
+      12,
+      10,
+      13,
+      12,
+      12,
+      12
+    ]
+  },
+  {
+    "id": 121,
+    "seed": "campaign-234",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      8,
+      10,
+      9,
+      12,
+      9,
+      18,
+      11,
+      13,
+      12,
+      12,
+      13,
+      17
+    ]
+  },
+  {
+    "id": 122,
+    "seed": "campaign-044",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      2,
+      5,
+      10,
+      8,
+      6,
+      10,
+      8
+    ]
+  },
+  {
+    "id": 123,
+    "seed": "campaign-268",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      10,
+      16,
+      10,
+      13,
+      10,
+      11,
+      8,
+      6,
+      9,
+      16
+    ]
+  },
+  {
+    "id": 124,
+    "seed": "campaign-136",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      17,
+      15,
+      17,
+      12,
+      13,
+      12,
+      11,
+      12,
+      16,
+      10,
+      13,
+      9,
+      12
+    ]
+  },
+  {
+    "id": 125,
+    "seed": "campaign-256",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      10,
+      10,
+      13,
+      14,
+      17,
+      13,
+      12,
+      12,
+      16,
+      14,
+      17,
+      10,
+      11
+    ]
+  },
+  {
+    "id": 126,
+    "seed": "campaign-189",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      6,
+      10,
+      7,
+      10,
+      16,
+      11,
+      15,
+      7,
+      10,
+      14
+    ]
+  },
+  {
+    "id": 127,
+    "seed": "campaign-175",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      12,
+      6,
+      16,
+      9,
+      9,
+      18,
+      11,
+      19,
+      10,
+      5,
+      16
+    ]
+  },
+  {
+    "id": 128,
+    "seed": "campaign-235",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      12,
+      14,
+      20,
+      11,
+      12,
+      12,
+      6,
+      5,
+      17,
+      10,
+      9,
+      16
+    ]
+  },
+  {
+    "id": 129,
+    "seed": "campaign-214",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      10,
+      8,
+      8,
+      17,
+      11,
+      7,
+      13,
+      11,
+      15,
+      11,
+      18
+    ]
+  },
+  {
+    "id": 130,
+    "seed": "campaign-217",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      19,
+      14,
+      13,
+      13,
+      10,
+      9,
+      15,
+      11,
+      13,
+      20,
+      11,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 131,
+    "seed": "campaign-039",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      9,
+      6,
+      5,
+      9,
+      5,
+      8,
+      7
+    ]
+  },
+  {
+    "id": 132,
+    "seed": "campaign-192",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      9,
+      17,
+      9,
+      14,
+      9,
+      11,
+      13,
+      17,
+      10,
+      13,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 133,
+    "seed": "campaign-201",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      12,
+      12,
+      6,
+      12,
+      12,
+      10,
+      10,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 134,
+    "seed": "campaign-124",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      10,
+      8,
+      7,
+      7,
+      12,
+      11,
+      12,
+      13,
+      10
+    ]
+  },
+  {
+    "id": 135,
+    "seed": "campaign-013",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      4,
+      4,
+      14,
+      8,
+      1
+    ]
+  },
+  {
+    "id": 136,
+    "seed": "campaign-294",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      17,
+      12,
+      9,
+      16,
+      10,
+      9,
+      10,
+      12,
+      12,
+      17,
+      7
+    ]
+  },
+  {
+    "id": 137,
+    "seed": "campaign-155",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      14,
+      17,
+      12,
+      10,
+      10,
+      11,
+      11,
+      10,
+      14,
+      15,
+      15,
+      5
+    ]
+  },
+  {
+    "id": 138,
+    "seed": "campaign-230",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      11,
+      9,
+      6,
+      9,
+      16,
+      9,
+      8,
+      17,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 139,
+    "seed": "campaign-114",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      8,
+      8,
+      10,
+      11,
+      11,
+      13,
+      15,
+      11,
+      11,
+      15,
+      14,
+      17
+    ]
+  },
+  {
+    "id": 140,
+    "seed": "campaign-271",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      10,
+      15,
+      15,
+      11,
+      11,
+      8,
+      9,
+      12,
+      8,
+      12,
+      14,
+      19
+    ]
+  },
+  {
+    "id": 141,
+    "seed": "campaign-232",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      7,
+      19,
+      14,
+      6,
+      12,
+      6,
+      11,
+      12,
+      13,
+      13,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 142,
+    "seed": "campaign-258",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      9,
+      11,
+      11,
+      14,
+      14,
+      10,
+      13,
+      12,
+      15,
+      15,
+      18,
+      14
+    ]
+  },
+  {
+    "id": 143,
+    "seed": "campaign-074",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      3,
+      6,
+      11,
+      8,
+      9,
+      9,
+      8,
+      10
+    ]
+  },
+  {
+    "id": 144,
+    "seed": "campaign-137",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      9,
+      10,
+      15,
+      14,
+      17,
+      13,
+      12,
+      17,
+      11,
+      12,
+      13,
+      14,
+      12
+    ]
+  },
+  {
+    "id": 145,
+    "seed": "campaign-174",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      12,
+      10,
+      4,
+      12,
+      19,
+      12,
+      10,
+      10,
+      16,
+      16,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 146,
+    "seed": "campaign-236",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      15,
+      14,
+      13,
+      12,
+      12,
+      13,
+      19,
+      6,
+      12,
+      13,
+      12,
+      14
+    ]
+  },
+  {
+    "id": 147,
+    "seed": "campaign-017",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      6,
+      7,
+      7,
+      6,
+      4,
+      6
+    ]
+  },
+  {
+    "id": 148,
+    "seed": "campaign-158",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      15,
+      10,
+      12,
+      14,
+      10,
+      13,
+      16,
+      11,
+      16,
+      16,
+      14,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 149,
+    "seed": "campaign-035",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      5,
+      7,
+      4,
+      12,
+      12,
+      1,
+      8
+    ]
+  },
+  {
+    "id": 150,
+    "seed": "campaign-117",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      18,
+      20,
+      6,
+      17,
+      14,
+      13,
+      14,
+      13,
+      9,
+      10,
+      10,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 151,
+    "seed": "campaign-242",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      9,
+      9,
+      8,
+      10,
+      11,
+      12,
+      10,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 152,
+    "seed": "campaign-131",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      8,
+      14,
+      18,
+      17,
+      15,
+      9,
+      10,
+      7,
+      10,
+      15,
+      8
+    ]
+  },
+  {
+    "id": 153,
+    "seed": "campaign-154",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      17,
+      12,
+      8,
+      15,
+      17,
+      8,
+      7,
+      12,
+      15,
+      11,
+      11
+    ]
+  },
+  {
+    "id": 154,
+    "seed": "campaign-055",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      5,
+      9,
+      9,
+      10,
+      7,
+      5,
+      11,
+      8
+    ]
+  },
+  {
+    "id": 155,
+    "seed": "campaign-127",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      11,
+      14,
+      11,
+      10,
+      7,
+      10,
+      13,
+      8,
+      12,
+      14
+    ]
+  },
+  {
+    "id": 156,
+    "seed": "campaign-290",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      7,
+      8,
+      19,
+      15,
+      14,
+      7,
+      7,
+      9,
+      7,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 157,
+    "seed": "campaign-293",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      6,
+      12,
+      17,
+      12,
+      16,
+      6,
+      13,
+      10,
+      13,
+      18,
+      10,
+      11
+    ]
+  },
+  {
+    "id": 158,
+    "seed": "campaign-264",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      5,
+      8,
+      12,
+      13,
+      8,
+      10,
+      13,
+      12,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 159,
+    "seed": "campaign-266",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      11,
+      14,
+      8,
+      14,
+      11,
+      10,
+      11,
+      13,
+      10,
+      6
+    ]
+  },
+  {
+    "id": 160,
+    "seed": "campaign-289",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      10,
+      7,
+      6,
+      12,
+      14,
+      12,
+      10,
+      10,
+      9,
+      11,
+      20
+    ]
+  },
+  {
+    "id": 161,
+    "seed": "campaign-028",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      7,
+      2,
+      11,
+      8,
+      13,
+      5,
+      3
+    ]
+  },
+  {
+    "id": 162,
+    "seed": "campaign-091",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      6,
+      4,
+      10,
+      10,
+      11,
+      16,
+      10,
+      7,
+      7
+    ]
+  },
+  {
+    "id": 163,
+    "seed": "campaign-202",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      12,
+      12,
+      7,
+      10,
+      6,
+      6,
+      11,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 164,
+    "seed": "campaign-276",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      15,
+      14,
+      13,
+      13,
+      10,
+      10,
+      16,
+      14,
+      9,
+      9,
+      16,
+      18,
+      12
+    ]
+  },
+  {
+    "id": 165,
+    "seed": "campaign-143",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      12,
+      15,
+      7,
+      9,
+      14,
+      13,
+      12,
+      5,
+      3
+    ]
+  },
+  {
+    "id": 166,
+    "seed": "campaign-212",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      6,
+      16,
+      11,
+      13,
+      12,
+      17,
+      11,
+      10,
+      6,
+      15,
+      14
+    ]
+  },
+  {
+    "id": 167,
+    "seed": "campaign-241",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      9,
+      8,
+      8,
+      14,
+      11,
+      14,
+      8,
+      7,
+      10
+    ]
+  },
+  {
+    "id": 168,
+    "seed": "campaign-244",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      7,
+      13,
+      10,
+      7,
+      8,
+      13,
+      11,
+      8,
+      12
+    ]
+  },
+  {
+    "id": 169,
+    "seed": "campaign-140",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      7,
+      14,
+      13,
+      11,
+      11,
+      17,
+      12,
+      16,
+      5,
+      15,
+      14,
+      21,
+      13
+    ]
+  },
+  {
+    "id": 170,
+    "seed": "campaign-177",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      12,
+      9,
+      8,
+      15,
+      17,
+      12,
+      18,
+      12,
+      7,
+      18,
+      16,
+      11
+    ]
+  },
+  {
+    "id": 171,
+    "seed": "campaign-057",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      6,
+      7,
+      7,
+      7,
+      9,
+      11,
+      11
+    ]
+  },
+  {
+    "id": 172,
+    "seed": "campaign-026",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      1,
+      8,
+      10,
+      5,
+      6,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 173,
+    "seed": "campaign-277",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      7,
+      18,
+      9,
+      10,
+      16,
+      19,
+      11,
+      19,
+      14,
+      9,
+      13,
+      11,
+      13
+    ]
+  },
+  {
+    "id": 174,
+    "seed": "campaign-103",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      6,
+      13,
+      10,
+      11,
+      8,
+      10,
+      12,
+      7,
+      9,
+      14
+    ]
+  },
+  {
+    "id": 175,
+    "seed": "campaign-208",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      8,
+      13,
+      13,
+      9,
+      7,
+      10,
+      11,
+      13,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 176,
+    "seed": "campaign-033",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      9,
+      5,
+      8,
+      3,
+      7,
+      11
+    ]
+  },
+  {
+    "id": 177,
+    "seed": "campaign-215",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      6,
+      11,
+      12,
+      16,
+      17,
+      11,
+      10,
+      10,
+      13,
+      16,
+      7,
+      15
+    ]
+  },
+  {
+    "id": 178,
+    "seed": "campaign-207",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      21,
+      14,
+      9,
+      9,
+      14,
+      11,
+      8,
+      10,
+      10,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 179,
+    "seed": "campaign-172",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      11,
+      9,
+      9,
+      13,
+      13,
+      11,
+      13,
+      8,
+      17,
+      13,
+      12
+    ]
+  },
+  {
+    "id": 180,
+    "seed": "campaign-024",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      9,
+      9,
+      8,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 181,
+    "seed": "campaign-231",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      11,
+      11,
+      11,
+      17,
+      12,
+      13,
+      10,
+      14,
+      12,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 182,
+    "seed": "campaign-051",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      9,
+      7,
+      7,
+      4,
+      9,
+      9,
+      12,
+      7
+    ]
+  },
+  {
+    "id": 183,
+    "seed": "campaign-203",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      8,
+      14,
+      8,
+      8,
+      13,
+      11,
+      9,
+      8,
+      12,
+      9
+    ]
+  },
+  {
+    "id": 184,
+    "seed": "campaign-287",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      9,
+      16,
+      10,
+      9,
+      13,
+      9,
+      10,
+      14,
+      10,
+      10
+    ]
+  },
+  {
+    "id": 185,
+    "seed": "campaign-083",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      7,
+      9,
+      6,
+      14,
+      12,
+      10,
+      3,
+      9,
+      11
+    ]
+  },
+  {
+    "id": 186,
+    "seed": "campaign-052",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      7,
+      10,
+      8,
+      6,
+      8,
+      7,
+      6,
+      12
+    ]
+  },
+  {
+    "id": 187,
+    "seed": "campaign-014",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      1,
+      5,
+      5,
+      10,
+      13,
+      2
+    ]
+  },
+  {
+    "id": 188,
+    "seed": "campaign-093",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      11,
+      8,
+      9,
+      14,
+      13,
+      7,
+      2,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 189,
+    "seed": "campaign-099",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      5,
+      12,
+      9,
+      11,
+      2,
+      16,
+      2,
+      12,
+      12
+    ]
+  },
+  {
+    "id": 190,
+    "seed": "campaign-149",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      10,
+      14,
+      15,
+      12,
+      10,
+      10,
+      10,
+      9,
+      12,
+      9,
+      10
+    ]
+  },
+  {
+    "id": 191,
+    "seed": "campaign-015",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      1,
+      5,
+      16,
+      6,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 192,
+    "seed": "campaign-050",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      7,
+      10,
+      2,
+      6,
+      9,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 193,
+    "seed": "campaign-179",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      17,
+      14,
+      10,
+      11,
+      14,
+      16,
+      13,
+      12,
+      15,
+      11,
+      12,
+      12
+    ]
+  },
+  {
+    "id": 194,
+    "seed": "campaign-047",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      7,
+      6,
+      5,
+      10,
+      6,
+      8,
+      7
+    ]
+  },
+  {
+    "id": 195,
+    "seed": "campaign-120",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      15,
+      13,
+      14,
+      17,
+      8,
+      13,
+      8,
+      14,
+      10,
+      14,
+      11,
+      19
+    ]
+  },
+  {
+    "id": 196,
+    "seed": "campaign-279",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      8,
+      17,
+      16,
+      20,
+      15,
+      12,
+      9,
+      14,
+      10,
+      11,
+      13,
+      12,
+      12
+    ]
+  },
+  {
+    "id": 197,
+    "seed": "campaign-105",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      9,
+      9,
+      14,
+      14,
+      11,
+      8,
+      13,
+      8,
+      4
+    ]
+  },
+  {
+    "id": 198,
+    "seed": "campaign-170",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      16,
+      16,
+      12,
+      9,
+      4,
+      10,
+      7,
+      17,
+      10,
+      6
+    ]
+  },
+  {
+    "id": 199,
+    "seed": "campaign-134",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      14,
+      10,
+      13,
+      10,
+      11,
+      10,
+      15,
+      16,
+      10,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 200,
+    "seed": "campaign-213",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      7,
+      9,
+      10,
+      17,
+      13,
+      10,
+      12,
+      13,
+      15,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 201,
+    "seed": "campaign-156",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      16,
+      12,
+      9,
+      14,
+      9,
+      22,
+      11,
+      10,
+      14,
+      16,
+      8,
+      14
+    ]
+  },
+  {
+    "id": 202,
+    "seed": "campaign-041",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      7,
+      7,
+      10,
+      4,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 203,
+    "seed": "campaign-251",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      10,
+      12,
+      11,
+      12,
+      13,
+      11,
+      10,
+      15,
+      13,
+      15,
+      7
+    ]
+  },
+  {
+    "id": 204,
+    "seed": "campaign-300",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      8,
+      14,
+      13,
+      10,
+      12,
+      8,
+      17,
+      21,
+      10,
+      13,
+      16,
+      10,
+      17
+    ]
+  },
+  {
+    "id": 205,
+    "seed": "campaign-257",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      12,
+      13,
+      11,
+      15,
+      13,
+      10,
+      11,
+      15,
+      11,
+      13,
+      16,
+      16
+    ]
+  },
+  {
+    "id": 206,
+    "seed": "campaign-162",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      8,
+      7,
+      9,
+      7,
+      8,
+      8,
+      17,
+      15,
+      12,
+      9
+    ]
+  },
+  {
+    "id": 207,
+    "seed": "campaign-064",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      7,
+      11,
+      11,
+      4,
+      5,
+      11,
+      4,
+      11
+    ]
+  },
+  {
+    "id": 208,
+    "seed": "campaign-285",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      8,
+      9,
+      7,
+      11,
+      12,
+      11,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 209,
+    "seed": "campaign-205",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      12,
+      10,
+      10,
+      10,
+      9,
+      8,
+      10,
+      12,
+      8
+    ]
+  },
+  {
+    "id": 210,
+    "seed": "campaign-054",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      5,
+      12,
+      9,
+      9,
+      12,
+      7,
+      1,
+      9
+    ]
+  },
+  {
+    "id": 211,
+    "seed": "campaign-077",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      12,
+      4,
+      12,
+      7,
+      7,
+      10,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": 212,
+    "seed": "campaign-273",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      11,
+      14,
+      8,
+      16,
+      10,
+      11,
+      13,
+      9,
+      11,
+      15,
+      10
+    ]
+  },
+  {
+    "id": 213,
+    "seed": "campaign-130",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      13,
+      8,
+      6,
+      16,
+      7,
+      11,
+      13,
+      15,
+      8,
+      11
+    ]
+  },
+  {
+    "id": 214,
+    "seed": "campaign-139",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      17,
+      11,
+      14,
+      12,
+      16,
+      12,
+      12,
+      12,
+      9,
+      11,
+      15,
+      14
+    ]
+  },
+  {
+    "id": 215,
+    "seed": "campaign-066",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      4,
+      9,
+      6,
+      13,
+      10,
+      9,
+      7
+    ]
+  },
+  {
+    "id": 216,
+    "seed": "campaign-069",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      10,
+      6,
+      8,
+      3,
+      8,
+      9,
+      10,
+      10
+    ]
+  },
+  {
+    "id": 217,
+    "seed": "campaign-147",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      15,
+      14,
+      8,
+      9,
+      13,
+      8,
+      9,
+      12,
+      10,
+      8
+    ]
+  },
+  {
+    "id": 218,
+    "seed": "campaign-056",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      13,
+      6,
+      8,
+      6,
+      11,
+      4,
+      11,
+      5
+    ]
+  },
+  {
+    "id": 219,
+    "seed": "campaign-115",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      9,
+      15,
+      10,
+      10,
+      10,
+      10,
+      12,
+      14,
+      11,
+      16,
+      12
+    ]
+  },
+  {
+    "id": 220,
+    "seed": "campaign-240",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      9,
+      6,
+      15,
+      18,
+      13,
+      6,
+      17,
+      12,
+      18,
+      14,
+      12,
+      12,
+      17
+    ]
+  },
+  {
+    "id": 221,
+    "seed": "campaign-161",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      13,
+      6,
+      11,
+      9,
+      11,
+      9,
+      8,
+      14,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 222,
+    "seed": "campaign-036",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      6,
+      8,
+      5,
+      6,
+      6,
+      12
+    ]
+  },
+  {
+    "id": 223,
+    "seed": "campaign-053",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      9,
+      7,
+      7,
+      9,
+      11,
+      9,
+      6
+    ]
+  },
+  {
+    "id": 224,
+    "seed": "campaign-262",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      12,
+      11,
+      11,
+      9,
+      6,
+      8,
+      8,
+      10,
+      14,
+      11
+    ]
+  },
+  {
+    "id": 225,
+    "seed": "campaign-153",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      19,
+      9,
+      11,
+      11,
+      13,
+      11,
+      15,
+      14,
+      13,
+      11,
+      7,
+      10
+    ]
+  },
+  {
+    "id": 226,
+    "seed": "campaign-118",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      12,
+      13,
+      15,
+      13,
+      13,
+      11,
+      12,
+      15,
+      14,
+      7,
+      16,
+      14
+    ]
+  },
+  {
+    "id": 227,
+    "seed": "campaign-188",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      14,
+      8,
+      15,
+      6,
+      9,
+      8,
+      14,
+      14,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 228,
+    "seed": "campaign-150",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      11,
+      10,
+      10,
+      8,
+      19,
+      8,
+      9,
+      4,
+      12,
+      15
+    ]
+  },
+  {
+    "id": 229,
+    "seed": "campaign-148",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      7,
+      10,
+      15,
+      8,
+      9,
+      13,
+      12,
+      11,
+      6,
+      14,
+      16
+    ]
+  },
+  {
+    "id": 230,
+    "seed": "campaign-178",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      7,
+      13,
+      16,
+      13,
+      12,
+      17,
+      15,
+      21,
+      15,
+      7,
+      10,
+      12,
+      11
+    ]
+  },
+  {
+    "id": 231,
+    "seed": "campaign-060",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      8,
+      7,
+      4,
+      8,
+      9,
+      4,
+      14,
+      10
+    ]
+  },
+  {
+    "id": 232,
+    "seed": "campaign-255",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      16,
+      12,
+      12,
+      12,
+      14,
+      13,
+      8,
+      16,
+      9,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 233,
+    "seed": "campaign-012",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      3,
+      5,
+      14,
+      2,
+      6,
+      6
+    ]
+  },
+  {
+    "id": 234,
+    "seed": "campaign-072",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      7,
+      7,
+      10,
+      7,
+      9,
+      3,
+      13,
+      8
+    ]
+  },
+  {
+    "id": 235,
+    "seed": "campaign-166",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      7,
+      13,
+      6,
+      10,
+      12,
+      15,
+      11,
+      10,
+      12,
+      11
+    ]
+  },
+  {
+    "id": 236,
+    "seed": "campaign-274",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      12,
+      10,
+      6,
+      18,
+      10,
+      10,
+      13,
+      16,
+      14,
+      10,
+      10,
+      15
+    ]
+  },
+  {
+    "id": 237,
+    "seed": "campaign-089",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      12,
+      13,
+      12,
+      6,
+      6,
+      8,
+      15,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 238,
+    "seed": "campaign-122",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      7,
+      9,
+      8,
+      15,
+      11,
+      11,
+      12,
+      9,
+      8
+    ]
+  },
+  {
+    "id": 239,
+    "seed": "campaign-191",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      11,
+      19,
+      7,
+      10,
+      12,
+      12,
+      11,
+      14,
+      11,
+      13,
+      11
+    ]
+  },
+  {
+    "id": 240,
+    "seed": "campaign-260",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      11,
+      12,
+      12,
+      13,
+      12,
+      15,
+      17,
+      10,
+      15,
+      14,
+      16,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 241,
+    "seed": "campaign-250",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      13,
+      11,
+      13,
+      12,
+      15,
+      9,
+      5,
+      10,
+      11,
+      10
+    ]
+  },
+  {
+    "id": 242,
+    "seed": "campaign-040",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      7,
+      6,
+      8,
+      8,
+      6,
+      5,
+      9
+    ]
+  },
+  {
+    "id": 243,
+    "seed": "campaign-082",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      9,
+      12,
+      10,
+      6,
+      5,
+      10,
+      5,
+      12,
+      12
+    ]
+  },
+  {
+    "id": 244,
+    "seed": "campaign-101",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      11,
+      7,
+      8,
+      12,
+      8,
+      9,
+      9,
+      11,
+      13,
+      12
+    ]
+  },
+  {
+    "id": 245,
+    "seed": "campaign-270",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      15,
+      13,
+      7,
+      8,
+      8,
+      12,
+      13,
+      12,
+      11,
+      9,
+      13
+    ]
+  },
+  {
+    "id": 246,
+    "seed": "campaign-249",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      20,
+      19,
+      11,
+      13,
+      10,
+      6,
+      7,
+      6,
+      13,
+      5
+    ]
+  },
+  {
+    "id": 247,
+    "seed": "campaign-190",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      12,
+      6,
+      15,
+      5,
+      13,
+      11,
+      13,
+      13,
+      11,
+      9
+    ]
+  },
+  {
+    "id": 248,
+    "seed": "campaign-292",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      10,
+      8,
+      14,
+      16,
+      13,
+      9,
+      14,
+      7,
+      15,
+      11,
+      15,
+      12
+    ]
+  },
+  {
+    "id": 249,
+    "seed": "campaign-237",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      18,
+      10,
+      14,
+      13,
+      14,
+      10,
+      11,
+      11,
+      18,
+      15,
+      10,
+      10,
+      15
+    ]
+  },
+  {
+    "id": 250,
+    "seed": "campaign-048",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      8,
+      3,
+      3,
+      4,
+      12,
+      8,
+      11
+    ]
+  },
+  {
+    "id": 251,
+    "seed": "campaign-085",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      14,
+      8,
+      12,
+      9,
+      8,
+      9,
+      4,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 252,
+    "seed": "campaign-157",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      11,
+      15,
+      14,
+      7,
+      16,
+      14,
+      8,
+      17,
+      15,
+      15,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 253,
+    "seed": "campaign-076",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      14,
+      9,
+      4,
+      10,
+      11,
+      12,
+      4,
+      12,
+      5
+    ]
+  },
+  {
+    "id": 254,
+    "seed": "campaign-295",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      12,
+      14,
+      12,
+      17,
+      8,
+      14,
+      17,
+      7,
+      6,
+      8,
+      14
+    ]
+  },
+  {
+    "id": 255,
+    "seed": "campaign-223",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      13,
+      11,
+      11,
+      10,
+      12,
+      12,
+      5,
+      7,
+      10
+    ]
+  },
+  {
+    "id": 256,
+    "seed": "campaign-198",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      15,
+      13,
+      15,
+      13,
+      15,
+      12,
+      12,
+      13,
+      10,
+      13,
+      15,
+      16,
+      7
+    ]
+  },
+  {
+    "id": 257,
+    "seed": "campaign-185",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      9,
+      9,
+      9,
+      10,
+      16,
+      8,
+      8,
+      11,
+      11
+    ]
+  },
+  {
+    "id": 258,
+    "seed": "campaign-209",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      10,
+      11,
+      10,
+      15,
+      16,
+      6,
+      10,
+      10,
+      12,
+      9
+    ]
+  },
+  {
+    "id": 259,
+    "seed": "campaign-187",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      13,
+      8,
+      12,
+      11,
+      4,
+      10,
+      13,
+      16,
+      13,
+      7
+    ]
+  },
+  {
+    "id": 260,
+    "seed": "campaign-296",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      9,
+      12,
+      9,
+      13,
+      16,
+      16,
+      13,
+      15,
+      15,
+      12,
+      12,
+      7,
+      20
+    ]
+  },
+  {
+    "id": 261,
+    "seed": "campaign-160",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      13,
+      15,
+      15,
+      13,
+      13,
+      10,
+      13,
+      11,
+      15,
+      14,
+      15,
+      12,
+      10
+    ]
+  },
+  {
+    "id": 262,
+    "seed": "campaign-246",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      9,
+      8,
+      16,
+      12,
+      9,
+      5,
+      13,
+      11,
+      16,
+      8
+    ]
+  },
+  {
+    "id": 263,
+    "seed": "campaign-123",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      7,
+      16,
+      8,
+      10,
+      9,
+      6,
+      16,
+      14,
+      8,
+      6
+    ]
+  },
+  {
+    "id": 264,
+    "seed": "campaign-267",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      9,
+      11,
+      12,
+      15,
+      12,
+      10,
+      10,
+      11,
+      9,
+      11
+    ]
+  },
+  {
+    "id": 265,
+    "seed": "campaign-151",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      6,
+      13,
+      13,
+      15,
+      11,
+      7,
+      8,
+      14,
+      16,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 266,
+    "seed": "campaign-245",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      12,
+      8,
+      10,
+      11,
+      10,
+      11,
+      9,
+      11,
+      9,
+      9
+    ]
+  },
+  {
+    "id": 267,
+    "seed": "campaign-252",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      13,
+      15,
+      12,
+      9,
+      8,
+      8,
+      11,
+      16,
+      16,
+      9,
+      13,
+      14
+    ]
+  },
+  {
+    "id": 268,
+    "seed": "campaign-088",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      2,
+      7,
+      13,
+      15,
+      18,
+      5,
+      5,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 269,
+    "seed": "campaign-119",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      14,
+      15,
+      7,
+      17,
+      13,
+      12,
+      15,
+      12,
+      11,
+      14,
+      12,
+      11,
+      16
+    ]
+  },
+  {
+    "id": 270,
+    "seed": "campaign-021",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      5,
+      6,
+      3,
+      7,
+      8,
+      7
+    ]
+  },
+  {
+    "id": 271,
+    "seed": "campaign-254",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      15,
+      12,
+      12,
+      11,
+      13,
+      11,
+      11,
+      6,
+      13,
+      13,
+      11
+    ]
+  },
+  {
+    "id": 272,
+    "seed": "campaign-075",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      9,
+      7,
+      6,
+      10,
+      6,
+      11,
+      12,
+      3
+    ]
+  },
+  {
+    "id": 273,
+    "seed": "campaign-299",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      17,
+      11,
+      18,
+      10,
+      11,
+      10,
+      14,
+      14,
+      14,
+      11,
+      12,
+      16,
+      11
+    ]
+  },
+  {
+    "id": 274,
+    "seed": "campaign-043",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      1,
+      10,
+      6,
+      9,
+      11,
+      6
+    ]
+  },
+  {
+    "id": 275,
+    "seed": "campaign-165",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      13,
+      10,
+      10,
+      11,
+      8,
+      16,
+      9,
+      9,
+      9,
+      5
+    ]
+  },
+  {
+    "id": 276,
+    "seed": "campaign-222",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      9,
+      9,
+      13,
+      12,
+      8,
+      12,
+      10,
+      11,
+      6
+    ]
+  },
+  {
+    "id": 277,
+    "seed": "campaign-184",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      9,
+      14,
+      8,
+      11,
+      11,
+      9,
+      12,
+      12,
+      5,
+      9
+    ]
+  },
+  {
+    "id": 278,
+    "seed": "campaign-216",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      9,
+      18,
+      11,
+      13,
+      13,
+      10,
+      12,
+      16,
+      15,
+      13,
+      10,
+      16,
+      13
+    ]
+  },
+  {
+    "id": 279,
+    "seed": "campaign-225",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      12,
+      9,
+      11,
+      12,
+      6,
+      9,
+      7,
+      9,
+      11,
+      14
+    ]
+  },
+  {
+    "id": 280,
+    "seed": "campaign-146",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      14,
+      11,
+      17,
+      8,
+      14,
+      11,
+      9,
+      9,
+      7,
+      12,
+      9
+    ]
+  },
+  {
+    "id": 281,
+    "seed": "campaign-193",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      16,
+      13,
+      12,
+      6,
+      9,
+      11,
+      14,
+      7,
+      15,
+      13,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 282,
+    "seed": "campaign-063",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      5,
+      18,
+      12,
+      5,
+      8,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": 283,
+    "seed": "campaign-084",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      7,
+      8,
+      11,
+      13,
+      14,
+      10,
+      5,
+      5,
+      8
+    ]
+  },
+  {
+    "id": 284,
+    "seed": "campaign-233",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      12,
+      10,
+      11,
+      18,
+      13,
+      9,
+      13,
+      14,
+      11,
+      7,
+      12,
+      14
+    ]
+  },
+  {
+    "id": 285,
+    "seed": "campaign-219",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      11,
+      14,
+      14,
+      18,
+      9,
+      5,
+      10,
+      11,
+      20,
+      18,
+      9,
+      15,
+      15
+    ]
+  },
+  {
+    "id": 286,
+    "seed": "campaign-100",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      8,
+      12,
+      8,
+      10,
+      9,
+      11,
+      3,
+      8,
+      12
+    ]
+  },
+  {
+    "id": 287,
+    "seed": "campaign-167",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      13,
+      14,
+      8,
+      10,
+      12,
+      10,
+      10,
+      12,
+      14,
+      7,
+      11
+    ]
+  },
+  {
+    "id": 288,
+    "seed": "campaign-128",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      9,
+      10,
+      14,
+      9,
+      7,
+      6,
+      14,
+      14,
+      11,
+      15,
+      12
+    ]
+  },
+  {
+    "id": 289,
+    "seed": "campaign-068",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      1,
+      8,
+      9,
+      7,
+      15,
+      10,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 290,
+    "seed": "campaign-291",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      15,
+      14,
+      12,
+      10,
+      16,
+      14,
+      13,
+      12,
+      9,
+      9,
+      8,
+      12
+    ]
+  },
+  {
+    "id": 291,
+    "seed": "campaign-108",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      11,
+      7,
+      11,
+      15,
+      11,
+      9,
+      6,
+      9,
+      19,
+      12,
+      11
+    ]
+  },
+  {
+    "id": 292,
+    "seed": "campaign-220",
+    "boardSize": 13,
+    "catCount": 13,
+    "regionSizes": [
+      12,
+      9,
+      12,
+      16,
+      15,
+      11,
+      8,
+      18,
+      11,
+      16,
+      10,
+      13,
+      18
+    ]
+  },
+  {
+    "id": 293,
+    "seed": "campaign-195",
+    "boardSize": 12,
+    "catCount": 12,
+    "regionSizes": [
+      11,
+      9,
+      18,
+      10,
+      9,
+      9,
+      9,
+      15,
+      12,
+      22,
+      10,
+      10
+    ]
+  },
+  {
+    "id": 294,
+    "seed": "campaign-086",
+    "boardSize": 9,
+    "catCount": 9,
+    "regionSizes": [
+      15,
+      15,
+      7,
+      9,
+      13,
+      10,
+      1,
+      2,
+      9
+    ]
+  },
+  {
+    "id": 295,
+    "seed": "campaign-032",
+    "boardSize": 7,
+    "catCount": 7,
+    "regionSizes": [
+      6,
+      13,
+      6,
+      8,
+      6,
+      9,
+      1
+    ]
+  },
+  {
+    "id": 296,
+    "seed": "campaign-163",
+    "boardSize": 10,
+    "catCount": 10,
+    "regionSizes": [
+      10,
+      13,
+      9,
+      10,
+      10,
+      13,
+      7,
+      10,
+      11,
+      7
+    ]
+  },
+  {
+    "id": 297,
+    "seed": "campaign-011",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      8,
+      8,
+      5,
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "id": 298,
+    "seed": "campaign-058",
+    "boardSize": 8,
+    "catCount": 8,
+    "regionSizes": [
+      6,
+      12,
+      6,
+      2,
+      9,
+      11,
+      10,
+      8
+    ]
+  },
+  {
+    "id": 299,
+    "seed": "campaign-206",
+    "boardSize": 11,
+    "catCount": 11,
+    "regionSizes": [
+      12,
+      10,
+      6,
+      13,
+      11,
+      8,
+      15,
+      13,
+      11,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 300,
+    "seed": "campaign-018",
+    "boardSize": 6,
+    "catCount": 6,
+    "regionSizes": [
+      10,
+      7,
+      5,
+      6,
+      7,
+      1
+    ]
+  }
+]
