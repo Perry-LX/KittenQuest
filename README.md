@@ -1,4 +1,4 @@
-# 🐱 小猫寻踪 (Kitten Quest)
+# <img src="public/favicon.png" alt="" width="28" height="28" style="vertical-align: -4px; margin-right: 4px;"> 小猫寻踪 (Kitten Quest)
 
 一个基于颜色推理的寻猫小游戏，灵感来自扫雷。在彩色网格中找出所有隐藏的小猫！
 
@@ -16,7 +16,7 @@
 |------|------|
 | **单击** 方块 | 放置/移除 🚩 旗帜标记 |
 | **快速双击** 同一方块 | 揭示该方块，确认是否为小猫 |
-| **揭示正确** | 显示 🐱，计入已找到 |
+| **揭示正确** | 显示 <img src="public/favicon.png" alt="🐱" width="16" height="16" style="vertical-align: -3px;">，计入已找到 |
 | **揭示错误** | 显示 ×，扣除一条命（共 3 条命） |
 
 ## 游戏特性

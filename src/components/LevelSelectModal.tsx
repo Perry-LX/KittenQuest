@@ -18,16 +18,27 @@ export function LevelSelectModal({ onSelect, onClose }: LevelSelectModalProps) {
   }
 
   return (
-    <div className="modal-overlay" onClick={handleBackdropClick}>
+    <div
+      className="modal-overlay"
+      onClick={handleBackdropClick}
+      role="dialog"
+      aria-modal="true"
+      aria-label={t.levelSelectTitle}
+    >
       <div className="modal-content">
         <div className="modal-header">
           <h2 className="modal-title">{t.levelSelectTitle}</h2>
-          <button type="button" className="modal-close" onClick={onClose} aria-label={t.close}>
+          <button
+            type="button"
+            className="modal-close"
+            onClick={onClose}
+            aria-label={t.close}
+          >
             ✕
           </button>
         </div>
 
-        <div className="modal-grid">
+        <div className="modal-grid" role="listbox" aria-label={t.levelSelectTitle}>
           {campaign.map((entry) => {
             const completed = completedLevels.includes(entry.id);
             return (
@@ -38,6 +49,9 @@ export function LevelSelectModal({ onSelect, onClose }: LevelSelectModalProps) {
                 disabled={!completed}
                 onClick={() => completed && onSelect(entry.id)}
                 title={t.levelTooltip(entry.id, entry.boardSize)}
+                aria-label={t.levelTooltip(entry.id, entry.boardSize)}
+                role="option"
+                aria-selected={false}
               >
                 <span className="level-cell__id">{entry.id}</span>
                 <span className="level-cell__size">{entry.boardSize}×{entry.boardSize}</span>

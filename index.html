@@ -1,14 +1,183 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" prefix="og: https://ogp.me/ns#">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kitten Quest</title>
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" href="/favicon.png" type="image/png">
+
+    <!-- ========== Primary Meta Tags ========== -->
+    <title>小猫寻踪 (Kitten Quest) — 颜色推理寻猫小游戏 | 在线免费玩</title>
+    <meta name="description" content="小猫寻踪是一款基于颜色推理的免费在线寻猫小游戏，灵感来自扫雷。在彩色网格中找出所有隐藏的小猫！300个固定关卡，中英文双语，支持 PC 和手机。免费在线游玩，无需下载。" />
+    <meta name="keywords" content="小猫寻踪, Kitten Quest, 寻猫游戏, 颜色推理游戏, 扫雷变体, 网页小游戏, 在线益智游戏, 推理游戏, 免费游戏, HTML5游戏, 逻辑解谜" />
+    <meta name="author" content="Kitten Quest" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="theme-color" content="#1a1a2e" />
+
+    <!-- ========== Canonical URL ========== -->
+    <link rel="canonical" href="https://kittenquest.app/" />
+
+    <!-- ========== Hreflang (多语言) ========== -->
+    <link rel="alternate" hreflang="zh-CN" href="https://kittenquest.app/" />
+    <link rel="alternate" hreflang="en" href="https://kittenquest.app/en/" />
+    <link rel="alternate" hreflang="x-default" href="https://kittenquest.app/" />
+
+    <!-- ========== Favicon ========== -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="256x256" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+
+    <!-- ========== Open Graph (Facebook / LinkedIn / Discord) ========== -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kittenquest.app/" />
+    <meta property="og:title" content="小猫寻踪 (Kitten Quest) — 颜色推理寻猫小游戏" />
+    <meta property="og:description" content="基于颜色推理的免费在线寻猫小游戏，灵感来自扫雷。在彩色网格中找出所有隐藏的小猫！300个关卡，中英文双语，PC 和手机均可玩。" />
+    <meta property="og:image" content="https://kittenquest.app/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:site_name" content="小猫寻踪 Kitten Quest" />
+
+    <!-- ========== Twitter Card ========== -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="小猫寻踪 (Kitten Quest) — 颜色推理寻猫小游戏" />
+    <meta name="twitter:description" content="基于颜色推理的免费在线寻猫小游戏，在彩色网格中找出所有隐藏的小猫！300个关卡免费玩。" />
+    <meta name="twitter:image" content="https://kittenquest.app/og-image.png" />
+
+    <!-- ========== JSON-LD: WebApplication / Game Schema ========== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "小猫寻踪 (Kitten Quest)",
+      "alternateName": "Kitten Quest",
+      "description": "基于颜色推理的寻猫小游戏，灵感来自扫雷。在彩色网格中找出所有隐藏的小猫！",
+      "url": "https://kittenquest.app/",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "All (Web Browser)",
+      "browserRequirements": "Requires JavaScript. Modern browser recommended.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Kitten Quest"
+      },
+      "inLanguage": ["zh-CN", "en"],
+      "featureList": [
+        "300个确定性生成的固定关卡",
+        "颜色推理逻辑解谜",
+        "中英文双语界面",
+        "进度自动保存",
+        "PC 和手机触屏支持"
+      ],
+      "screenshot": "https://kittenquest.app/og-image.png"
+    }
+    </script>
+
+    <!-- ========== JSON-LD: FAQPage Schema (GEO — 提升 AI 搜索引擎可见性 +40%) ========== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "什么是小猫寻踪？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "小猫寻踪（Kitten Quest）是一款基于颜色推理的免费在线寻猫小游戏，灵感来自经典游戏扫雷。游戏包含300个确定性生成的固定关卡，场地从6×6到13×13，每种颜色恰好藏有1只小猫。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "小猫寻踪怎么玩？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "在彩色网格中找出所有隐藏的小猫：单击方块放置旗帜标记，双击方块揭示该方块确认是否为小猫。每行每列最多只有1只小猫，同色格子构成一个颜色区域，小猫之间不相邻。共有3条命，找错会扣命。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "小猫寻踪有多少个关卡？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "小猫寻踪包含300个固定关卡，场地大小从6×6到13×13不等。关卡难度与编号无关——大小场地交错混排，带来持续的新鲜挑战。已通关关卡可随时跳转重玩。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "小猫寻踪支持哪些语言？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "小猫寻踪支持中文和英文两种语言，可在主页右上角一键切换。游戏规则弹窗、界面文字均跟随语言设置。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "小猫寻踪需要下载吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不需要下载。小猫寻踪是一款基于网页的HTML5游戏，在浏览器中直接打开即可游玩。支持 PC 和手机，进度自动保存在浏览器中。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kitten Quest — What is it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kitten Quest is a free online color-deduction puzzle game inspired by Minesweeper. Find all hidden kittens in a colorful grid across 300 levels. Play in your browser — no download needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many levels does Kitten Quest have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kitten Quest features 300 fixed levels ranging from 6×6 to 13×13 grids, with deterministic seed-based generation ensuring the same level always has the same layout."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Kitten Quest free to play?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Kitten Quest is completely free to play online with no registration or download required. Your progress is automatically saved in your browser."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- ========== Preload ========== -->
+    <link rel="preload" href="/src/main.tsx" as="script" crossorigin />
+    <link rel="preload" href="/home_bg.png" as="image" />
+    <link rel="preload" href="/game_bg.png" as="image" />
+
+    <!-- ========== Structured Navigation ========== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "小猫寻踪 Kitten Quest",
+          "item": "https://kittenquest.app/"
+        }
+      ]
+    }
+    </script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+
+    <!--
+      小猫寻踪 (Kitten Quest) — 基于颜色推理的免费在线寻猫游戏
+      300个关卡 | 中英文双语 | 免费在线游玩
+    -->
   </body>
-  </html>
+</html>

@@ -15,21 +15,27 @@ const palette = [
   "#b9f6ca",
   "#80d8ff",
   "#82b1ff",
-  "#ea80fc"
+  "#ea80fc",
 ];
 
 export function Tile({ tile, state, isCat, onClick }: TileProps) {
   const color = palette[tile.colorId % palette.length];
 
   let content: ReactNode = "";
+  let ariaLabel = `tile-${tile.x}-${tile.y}`;
+
   if (state.revealed && isCat) {
-    content = <img src="/favicon.png" alt="" className="tile__cat" />;
+    content = <img src="/favicon.png" alt="🐱" className="tile__cat" />;
+    ariaLabel = `tile-${tile.x}-${tile.y} kitten found`;
   } else if (state.revealed && state.wrongGuess) {
     content = "×";
+    ariaLabel = `tile-${tile.x}-${tile.y} wrong guess`;
   } else if (state.mark === "suspect") {
     content = "⚑";
+    ariaLabel = `tile-${tile.x}-${tile.y} flagged`;
   } else if (state.mark === "blocked") {
     content = "•";
+    ariaLabel = `tile-${tile.x}-${tile.y} blocked`;
   }
 
   return (
@@ -38,7 +44,7 @@ export function Tile({ tile, state, isCat, onClick }: TileProps) {
       className={`tile ${state.revealed ? "tile--revealed" : ""} ${state.wrongGuess ? "tile--wrong" : ""}`}
       style={{ backgroundColor: color }}
       onClick={onClick}
-      aria-label={`tile-${tile.x}-${tile.y}`}
+      aria-label={ariaLabel}
     >
       <span>{content}</span>
     </button>

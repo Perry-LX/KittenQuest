@@ -1,0 +1,45 @@
+# robots.txt — 小猫寻踪 (Kitten Quest)
+# 允许所有搜索引擎和 AI 爬虫抓取
+
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /src/
+
+# ---- 传统搜索引擎 ----
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# ---- AI 搜索引擎 / LLM 爬虫 ----
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# ---- 站点地图 ----
+Sitemap: https://kittenquest.app/sitemap.xml
