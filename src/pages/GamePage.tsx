@@ -1,5 +1,7 @@
+import { useState } from "react";
 import { GameBoard } from "../components/GameBoard";
 import { Hud } from "../components/Hud";
+import { HowToPlayModal } from "../components/HowToPlayModal";
 import { ResultPanel } from "../components/ResultPanel";
 import { useGameStore } from "../store/gameStore";
 import { useSEOMeta } from "../utils/seo";
@@ -11,6 +13,7 @@ type GamePageProps = {
 export function GamePage({ onBack }: GamePageProps) {
   const campaignLevel = useGameStore((state) => state.campaignLevel);
   const startCampaignLevel = useGameStore((state) => state.startCampaignLevel);
+  const [showRules, setShowRules] = useState(false);
 
   // 游戏页面的动态 SEO meta（随关卡变化）
   useSEOMeta(
@@ -23,29 +26,34 @@ export function GamePage({ onBack }: GamePageProps) {
   };
 
   return (
-    <section className="game-page">
-      {/* 顶部导航和信息栏 */}
-      <header>
-        <Hud onBack={onBack} onRestart={restart} />
-      </header>
+    <>
+      <section className="game-page">
+        {/* 顶部导航和信息栏 */}
+        <header>
+          <Hud onBack={onBack} onRestart={restart} onShowRules={() => setShowRules(true)} />
+        </header>
 
-      {/* 主要游戏区域 */}
-      <main>
-        <GameBoard />
-      </main>
+        {/* 主要游戏区域 */}
+        <main>
+          <GameBoard />
+        </main>
 
-      {/* 通关/失败结果面板 */}
-      <footer>
-        <ResultPanel />
-      </footer>
+        {/* 通关/失败结果面板 */}
+        <footer>
+          <ResultPanel />
+        </footer>
 
-      {/* 隐藏的 GEO 内容 */}
-      <div className="geo-hidden" aria-hidden="false">
-        <p>
-          Kitten Quest Level {campaignLevel} of 300. Free online color-deduction
-          puzzle game. Find hidden kittens in the colored grid.
-        </p>
-      </div>
-    </section>
+        {/* 隐藏的 GEO 内容 */}
+        <div className="geo-hidden" aria-hidden="false">
+          <p>
+            Kitten Quest Level {campaignLevel} of 300. Free online color-deduction
+            puzzle game. Find hidden kittens in the colored grid.
+          </p>
+        </div>
+      </section>
+
+      {/* 规则说明弹窗 — 渲染在 game-page 外部，确保最顶层 */}
+      {showRules && <HowToPlayModal onClose={() => setShowRules(false)} />}
+    </>
   );
 }

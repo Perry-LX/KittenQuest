@@ -2,14 +2,14 @@ import { useState } from "react";
 import { campaign } from "../game/campaign";
 import { useGameStore } from "../store/gameStore";
 import { useLanguage } from "../i18n/LanguageProvider";
-import { HowToPlayModal } from "./HowToPlayModal";
 
 type HudProps = {
   onRestart?: () => void;
   onBack: () => void;
+  onShowRules: () => void;
 };
 
-export function Hud({ onRestart, onBack }: HudProps) {
+export function Hud({ onRestart, onBack, onShowRules }: HudProps) {
   const boardSize = useGameStore((state) => state.boardSize);
   const foundCats = useGameStore((state) => state.foundCats);
   const catCount = useGameStore((state) => state.level.catCount);
@@ -17,7 +17,6 @@ export function Hud({ onRestart, onBack }: HudProps) {
   const campaignLevel = useGameStore((state) => state.campaignLevel);
   const { t } = useLanguage();
   const [open, setOpen] = useState(false);
-  const [showRules, setShowRules] = useState(false);
 
   return (
     <>
@@ -58,7 +57,7 @@ export function Hud({ onRestart, onBack }: HudProps) {
           <button
             type="button"
             className="hud__rules-btn"
-            onClick={() => setShowRules(true)}
+            onClick={onShowRules}
             title={t.rulesTitle}
             aria-label={t.rulesTitle}
           >
@@ -91,8 +90,6 @@ export function Hud({ onRestart, onBack }: HudProps) {
           </div>
         )}
       </nav>
-
-      {showRules && <HowToPlayModal onClose={() => setShowRules(false)} />}
     </>
   );
 }
